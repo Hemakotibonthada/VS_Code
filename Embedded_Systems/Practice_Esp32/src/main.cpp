@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // Replace with your network credentials
-const char* ssid = "YOUR_SSID";
-const char* password = "YOUR_PASSWORD";
+const char* ssid = "Hemakoti's Hotspot";
+const char* password = "Hemakoti@003";
 
 // Set web server port number to 80
 WebServer server(80);
