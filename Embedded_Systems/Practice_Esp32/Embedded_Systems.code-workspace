@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Practice_Esp32",
+			"path": "."
+		},
+		{
+			"name": "Practice_ARMEGA",
+			"path": "../../../PlatformIO/Projects/Practice_ARMEGA"
+		}
+	],
+	"settings": {}
+}
